@@ -184,7 +184,7 @@ Some notebooks may require additional cleaning, optimisation, or documentation b
 
 ## Author
 
-**Siam Abdur Rahman**
+**Abdur Rahman Siam**
 
 - GitHub: [siamabdurrahman](https://github.com/siamabdurrahman)
 - Repository: [AI-for-Data-Intelligence---Canterbury-P18734-](https://github.com/siamabdurrahman/AI-for-Data-Intelligence---Canterbury-P18734-)
