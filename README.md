@@ -10,26 +10,26 @@ The work in this repository represents my weekly practical exercises, coursework
 
 ## About This Repository
 
-This repository was created to document and showcase the practical work I completed while studying the AI for Data Intelligence course. Each notebook or folder represents a weekly practical task, worksheet, or machine learning exercise.
+This repository was created to document and showcase the practical work I completed while studying the AI for Data Intelligence course. Each notebook represents a weekly practical task, worksheet, or machine learning exercise.
 
 The projects demonstrate the use of Python and Jupyter Notebook to analyse datasets, build machine learning models, evaluate performance, and understand how artificial intelligence techniques can be applied to real-world data problems.
 
 ## Contents
 
-| File / Folder | Description |
+| File | Description |
 |---|---|
-| `Week -2 (Numeric and Image)` | Practical work involving numeric data and image-based data processing. |
-| `Week 3(Heart Disease)` | Machine learning analysis using a heart disease dataset. |
-| `Week - 4 (PCA)` | Practical implementation of Principal Component Analysis for dimensionality reduction. |
 | `Breast Cancer (Week-6).ipynb` | Breast cancer classification using machine learning techniques. |
-| `Week -7` | Weekly practical notebook covering machine learning concepts and implementation. |
-| `Week - 7 (2)` | Additional Week 7 practical work or extended exercise. |
-| `Week - 8 (Practical Worksheet)` | Practical worksheet completed as part of the course. |
-| `Week - 9` | Weekly practical work related to AI and data intelligence. |
-| `Week - 10` | Advanced practical notebook from the course. |
-| `Week -11` | Final weekly practical notebook included in this coursework collection. |
-| `XAI.ipynb` | Explainable AI notebook focused on model interpretability and understanding AI decisions. |
 | `README.md` | Documentation for this repository. |
+| `Week - 10.ipynb` | Advanced practical notebook from the course. |
+| `Week - 4 (PCA).ipynb` | Practical implementation of Principal Component Analysis for dimensionality reduction. |
+| `Week - 7 (2).ipynb` | Additional Week 7 practical work or extended exercise. |
+| `Week - 8 (Practical Worksheet).ipynb` | Practical worksheet completed as part of the course. |
+| `Week - 9.ipynb` | Weekly practical work related to AI and data intelligence. |
+| `Week -11.ipynb` | Final weekly practical notebook included in this coursework collection. |
+| `Week -2 (Numeric and Image).ipynb` | Practical work involving numeric data and image-based data processing. |
+| `Week -7.ipynb` | Weekly practical notebook covering machine learning concepts and implementation. |
+| `Week 3(Heart Disease)` | Machine learning analysis using a heart disease dataset. |
+| `XAI.ipynb` | Explainable AI notebook focused on model interpretability and understanding AI decisions. |
 
 ## Topics Covered
 
@@ -135,18 +135,17 @@ Open any `.ipynb` file and run the cells step by step.
 AI-for-Data-Intelligence---Canterbury-P18734-/
 │
 ├── Breast Cancer (Week-6).ipynb
-├── XAI.ipynb
 ├── README.md
-│
-├── Week -2 (Numeric and Image)/
-├── Week 3(Heart Disease)/
-├── Week - 4 (PCA)/
-├── Week -7/
-├── Week - 7 (2)/
-├── Week - 8 (Practical Worksheet)/
-├── Week - 9/
-├── Week - 10/
-└── Week -11/
+├── Week - 10.ipynb
+├── Week - 4 (PCA).ipynb
+├── Week - 7 (2).ipynb
+├── Week - 8 (Practical Worksheet).ipynb
+├── Week - 9.ipynb
+├── Week -11.ipynb
+├── Week -2 (Numeric and Image).ipynb
+├── Week -7.ipynb
+├── Week 3(Heart Disease)
+└── XAI.ipynb
 ```
 
 ## Skills Demonstrated
